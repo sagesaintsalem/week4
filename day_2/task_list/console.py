@@ -15,7 +15,11 @@ user_repo.save(user2)
 
 user_repo.select_all()
 
-task = Task("Walk dug",user1, 60)
-task_repo.save(task)
+task_1 = Task("Plant seeds", user1, 30)
+task_repo.save(task_1)
 
-pdb.set_trace()
+task_2 = Task("Go for a run", user1, 30, True)
+task_repo.save(task_2)
+
+
+# pdb.set_trace()

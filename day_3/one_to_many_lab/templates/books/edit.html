@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <form action="/books/{{ book.id }}/update" method="post">
+        <div>
+            <label for="title">title:</label>
+            <input type="text" value="{{book.title}}" id="title" name="title">
+        </div>
+        <div>
+            <label for="'author">author: </label>
+            <input type="text" value="{{book.author}}" id="author" name="author">
+        </div>
+        <div>
+            <label for="price">price:</label>
+            <input type="number" value="{{book.price}}" id="price" name="price">
+        </div>
+    
+        <button type="submit">Edit Book</button>
+
+
+
+    </form>
+{% endblock %}

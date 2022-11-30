@@ -1,0 +1,71 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.details {
+    
+    border: 1px solid #B5B6D7;
+    width: 300px;
+    min-height: 68px;
+    padding: 10px;
+    display: flex;
+    line-height: 18px;
+    margin-bottom: 10px;
+    /* justify-content:flex-start; */
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+
+}
+
+.details > ul {
+    list-style: none; 
+    margin: 0;
+    padding: 10px;
+}
+
+
+
+.menu {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: grey;
+    color: white;
+
+}
+
+.menu li a {
+    text-decoration: none;
+}
+  
+.menu li a:visited {
+    color: white;
+}
+
+.menu li {
+    padding: 10px;
+    list-style: none;
+    color: white;
+}
+
+.dem_books {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap:wrap;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.buttons {
+    display:grid;
+    justify-items: center;
+    align-content: flex-end;
+    padding: 20px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="dem_books">
+        {% for book in books %}
+            <div class="details">
+                <ul>
+                    <li>{{book.id}}</li>
+                    <li>{{ book.title }}</li>
+                    <li>{{ book.price }}</li>
+                    <li>{{ book.author.author_name}}</li>
+                </ul>
+                <div class="buttons">
+                    <form action="/books/{{ book.id }}/edit">
+                        <button type="select">Edit</button>
+                    </form>
+                    <form class="delete-form" action="/books/{{ book.id }}/delete" method="post">
+                        <button type="select">Delete</button>
+                    </form>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+{% endblock %}

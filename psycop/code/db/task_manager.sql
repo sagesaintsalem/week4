@@ -9,7 +9,7 @@ CREATE TABLE tasks (
 );
 
 INSERT INTO tasks (description, assignee, duration) 
-VALUES ('Walk Dog', 'Jack Jarvia', 60);
+VALUES ('Walk Dog', 'Jack Jarvis', 60);
 
 INSERT INTO tasks (description, assignee, duration) 
 VALUES ('Feed Cat', 'Victor McDade', 5);

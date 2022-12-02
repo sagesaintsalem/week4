@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T11:21:00.041Z" agent="5.0 (Macintosh)" etag="3g9yoPOb9rCDoIb-TRpi" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T11:30:03.971Z" agent="5.0 (Macintosh)" etag="HDzg1JAXOm4gDV4KBzFU" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="786" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -12,30 +12,30 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--1" value="Name: Darla" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--2" value="Age: 19" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#5C5C5C;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--2" value="Age: 19        Weapon: Axe&#xa;&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#5C5C5C;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--3" value="Gold: 10             Wisdom: 10&#xa;Strength: 18       Intelligence: 10&#xa;Dexterity: 10      Charisma: 8&#xa;Constitution: 14&#xa;&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#5C5C5C;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="78" width="240" height="82" as="geometry" />
+          <mxGeometry y="78" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="160" width="240" height="8" as="geometry" />
+          <mxGeometry y="148" width="240" height="8" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="attack_w_weapon()&#xa;dash()&#xa;hold_action()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="168" width="240" height="72" as="geometry" />
+          <mxGeometry y="156" width="240" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-1" value="Darla the Unforgiving: Barbarian" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-1" value="Darla the Unforgiving: Barbarian" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="160" width="240" height="110" as="geometry">
             <mxRectangle x="430" y="160" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-2" value="Two-handed weapon: Zweihander" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-1">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-2" value="Two_Handed_Weapon: Zweihander" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-1" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;rage ()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-1">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;rage ()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-1" vertex="1">
           <mxGeometry y="60" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-6" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="UjI9E3b9boYJQexXu8UP-1">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-6" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" parent="UjI9E3b9boYJQexXu8UP-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="74.5" as="sourcePoint" />
             <mxPoint x="100" y="74.5" as="targetPoint" />
@@ -44,44 +44,44 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="250" as="sourcePoint" />
             <mxPoint x="430" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-9" value="High Scholar Earbender:Character" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-9" value="High Scholar Earbender:Character" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="440" width="240" height="240" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-10" value="Name: Urthaak &quot;Earbender&quot; Tazgrax" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-9">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-10" value="Name: Urthaak &quot;Earbender&quot; Tazgrax" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-9" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-11" value="Age: 21" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-9">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-11" value="Age: 21        Weapon: Dagger" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-9" vertex="1">
           <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-12" value="Gold: 20             Wisdom: 10&#xa;Strength: 9         Intelligence: 18&#xa;Dexterity: 10      Charisma: 10&#xa;Constitution: 12&#xa;&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-9">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-12" value="Gold: 20             Wisdom: 10&#xa;Strength: 9         Intelligence: 18&#xa;Dexterity: 10      Charisma: 10&#xa;Constitution: 12&#xa;&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-9" vertex="1">
           <mxGeometry y="78" width="240" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-9">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-9" vertex="1">
           <mxGeometry y="160" width="240" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-14" value="attack_w_weapon()&#xa;dash()&#xa;hold_action()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-9">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-14" value="attack_w_weapon()&#xa;dash()&#xa;hold_action()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-9" vertex="1">
           <mxGeometry y="168" width="240" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-15" value="High Scholar Earbender:Wizard" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-15" value="High Scholar Earbender:Wizard" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="440" width="240" height="110" as="geometry">
             <mxRectangle x="430" y="160" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-16" value="&lt;div&gt;Spell_Focus: obsidian amulet&lt;/div&gt;&lt;div&gt;Spell_Points: 14&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-15">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-16" value="&lt;div&gt;Spell_Focus: obsidian amulet&lt;/div&gt;&lt;div&gt;Spell_Points: 14&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-15" vertex="1">
           <mxGeometry y="30" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-17" value="cast_spell()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" vertex="1" parent="UjI9E3b9boYJQexXu8UP-15">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-17" value="cast_spell()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" parent="UjI9E3b9boYJQexXu8UP-15" vertex="1">
           <mxGeometry y="80" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-18" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="UjI9E3b9boYJQexXu8UP-15">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-18" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" parent="UjI9E3b9boYJQexXu8UP-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="74.5" as="sourcePoint" />
             <mxPoint x="100" y="74.5" as="targetPoint" />
@@ -90,7 +90,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjI9E3b9boYJQexXu8UP-19" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UjI9E3b9boYJQexXu8UP-19" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="374" y="490" as="sourcePoint" />
             <mxPoint x="413.5" y="490" as="targetPoint" />
